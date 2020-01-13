@@ -37,3 +37,6 @@ Bankus -- Project for MIPT Fullstack Dev Course. Lecturer: Gavenko Irina. 2019 (
 ## Некоторые скриншоты страниц сайта:
 
 ![Скрин формы регистрации пользователя](https://sun9-3.userapi.com/c206516/v206516427/382af/Msvw7qqE_Gs.jpg)
+![Скрин главной страницы](https://sun9-48.userapi.com/c206516/v206516320/39612/NvMuelBUox0.jpg)
+![Скрин админ-панели](https://sun9-71.userapi.com/c206516/v206516320/3961b/nHBGqozbze4.jpg)
+
