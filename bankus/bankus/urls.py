@@ -16,9 +16,13 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
+from register.views import index
+from bankus_app.views import rates_render
+
 urlpatterns = [
     path('', include('frontend.urls')),
     path('', include('bankus_app.urls')),
     path('admin/', admin.site.urls),
-    path('reg/', include('register.urls'))
+    path('reg/', index),
+    path('rates/', rates_render)
 ]

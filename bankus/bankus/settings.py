@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'bankus_app.apps.BankusAppConfig',
-    'frontend'
+    'frontend.apps.FrontendConfig',
+    'register.apps.RegisterConfig'
 ]
 
 MIDDLEWARE = [
