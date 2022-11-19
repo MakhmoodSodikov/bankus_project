@@ -19,7 +19,7 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "react-bootstrap": "^1.0.0-beta.16",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
 
   "dependencies": {
